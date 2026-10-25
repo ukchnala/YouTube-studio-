@@ -1,6 +1,3 @@
-pyTelegramBotAPI
-edge-tts
-pillow
-moviepy
-requests
-flask
+import telebot
+import os
+# Tera baaki bot ka poora code yahan aayega
